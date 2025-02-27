@@ -51,6 +51,6 @@ Make sure to place the `haarcascade_frontalface_default.xml` file in the same di
 
 ## Contributors
 
-- Atharv Porwal
+- Sahil Mohammad
 
 Feel free to contribute by submitting bug fixes, feature requests, or pull requests.
